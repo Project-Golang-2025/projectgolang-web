@@ -1,6 +1,6 @@
 module vacancy_api
 
-go 1.24.3
+go 1.24
 
 require (
 	github.com/gin-contrib/cors v1.7.5
