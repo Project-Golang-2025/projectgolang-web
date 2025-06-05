@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Разработчик Go (пример)",
+    "company": "Tech Solutions",
+    "description": "Требуется опытный Go разработчик.",
+    "keywords": [
+      "golang",
+      "backend"
+    ],
+    "status": "Тестовое задание"
+  },
+  {
+    "id": "2",
+    "title": "Frontend Developer (пример)",
+    "company": "Web Innovators",
+    "description": "Ищем frontend разработчика.",
+    "keywords": [
+      "javascript",
+      "react"
+    ],
+    "status": "Откликнулся"
+  },
+  {
+    "id": "3",
+    "title": "HTML5 Frontend Developer for MobilePC",
+    "company": "avazu.net",
+    "description": "HTML5 \u003cb\u003eFrontend \u003c/b\u003eDeveloper for MobilePCResponsibilities - Work closely with Project Managers and other members of the Development Team to both develop detailed specification documents with clear project deliverables and timelines, and to ensure timely completion of deliverables...\u0026nbsp;",
+    "keywords": [],
+    "sourceURL": "https://jooble.org/jdp/-3708982616832984905",
+    "status": "Новая",
+    "experienceLevel": "Менее 1 года"
+  },
+  {
+    "id": "4",
+    "title": "Frontend developer",
+    "company": "Zortech Solutions",
+    "description": "Front End Developer  \r\n  Dalls, TX  \r\n  F2F interview  \r\n 5+ yrs",
+    "keywords": [],
+    "sourceURL": "https://jooble.org/jdp/722788263134285426",
+    "status": "Новая"
+  },
+  {
+    "id": "5",
+    "title": "Front End Developer",
+    "company": "ABBTECH Professional Resources, Inc.",
+    "description": "\u0026nbsp;...to support and All Source Data Modeling and Analysis team. Provide Front End Developer support to deliver a prototype application \u003cb\u003efrontend \u003c/b\u003eInterface utilizing JavaScript, Angular, and a containerized (Docker and/or Kubernetes is preferred), cloud (AWS) development platform...\u0026nbsp;",
+    "keywords": [],
+    "sourceURL": "https://jooble.org/jdp/-27679778295914989",
+    "status": "Новая"
+  },
+  {
+    "id": "6",
+    "title": "SVP, Analytics",
+    "company": "Empower Media",
+    "description": "\u0026nbsp;...strong background in system development and management, technology partner identification and integration, statistical and predictive \u003cb\u003eanalytics,\u003c/b\u003e data mining, machine learning, and API development. They will be responsible for ensuring the agency realizes their vision of an...\u0026nbsp;",
+    "keywords": [
+      ""
+    ],
+    "sourceURL": "https://jooble.org/jdp/6092955391865908265"
+  },
+  {
+    "id": "7",
+    "title": "Manager, Analytics",
+    "company": "Roku, Inc.",
+    "description": "\u0026nbsp;...streamers around the world while gaining meaningful experience across a variety of disciplines.\nAbout the Team When you join our Core \u003cb\u003eAnalytics \u003c/b\u003eTeam, you become part of a centralized hub of analytics excellence. This team provides the unique opportunity to work alongside a...\u0026nbsp;",
+    "keywords": [
+      ""
+    ],
+    "sourceURL": "https://jooble.org/jdp/5429752286160610850"
+  },
+  {
+    "id": "8",
+    "title": "Manager - Pricing Analytics",
+    "company": "Michaels Stores",
+    "description": "\u0026nbsp;...The  Manager - Pricing \u003cb\u003eAnalytics \u003c/b\u003e plays a critical role in revenue and margin management for the Merchandising organization by performing various pricing analyses to exceed the financial targets. This highly visible individual will manage the daily and weekly promotions...\u0026nbsp;",
+    "keywords": [
+      ""
+    ],
+    "sourceURL": "https://jooble.org/jdp/2515570397140898337"
+  }
+]
